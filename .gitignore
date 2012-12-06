@@ -1,0 +1,10 @@
+*.a
+*.lib
+*.exe
+*.dll
+*.o
+.cproject
+.project
+*.pyc
+local.py
+*.odt
